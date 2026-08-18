@@ -1,12 +1,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30"/> Olá! Eu sou o João Victor
 
-<!-- Contador de Visitas -->
 ![](https://komarev.com/ghpvc/?username=J-vialrinho&color=blue&label=VISITANTES)
 
-<!-- Efeito de Digitação Animada -->
-<a href="https://github.com/J-vialrinho">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Estudante+de+Sistemas+de+Informação;Foco+em+QA+e+Desenvolvimento;Apaixonado+por+Tecnologia;Construindo+soluções..." alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=007ACC&width=500&lines=Estudante+de+Sistemas;Foco+em+QA+e+Desenvolvimento;Apaixonado+por+Tecnologia)
 
 ---
 
@@ -20,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="TypeScript" width="35"/> ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leaf%20Fluttering%20In%20Wind.png" alt="MongoDB" width="35"/> ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Database" width="35"/> ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="PowerShell" width="35"/> ![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -30,3 +26,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-victor-104b3b351)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovilarinho580@gmail.com)
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Code Animation" />
+</div>
