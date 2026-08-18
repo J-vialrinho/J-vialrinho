@@ -1,10 +1,10 @@
-### 👋 Olá! Eu sou o João Victor
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30"/> Olá! Eu sou o João Victor
 
-💻 Estudante de Sistemas de Informação | Foco em Desenvolvimento e QA.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25"/> Estudante de Sistemas de Informação | Foco em Desenvolvimento e QA.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30"/> Tecnologias e Ferramentas
 
 <p align="left">
   <!-- Ícone do Java -->
@@ -23,14 +23,12 @@
 
 ---
 
-### 📫 Contato
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="30"/> Contato
 
 <p align="left">
-  <!-- Substitua SEU_LINKEDIN pelo seu usuário -->
   <a href="https://linkedin.com/in/joão-victor-104b3b351" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- Substitua SEU_EMAIL pelo seu email real -->
   <a href="mailto:joaovilarinho580@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -38,16 +36,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30"/> GitHub Stats
 
 <p align="left">
-  <!-- Substitua SEU_USUARIO pelo seu nome de usuário do GitHub -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=J-vialrinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-vialrinho&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/J-vialrinho">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=J-vialrinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-vialrinho&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas" />
+  </a>
 </p>
 
-<!-- Adicionando um GIF decorativo no estilo da sua imagem -->
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="400" alt="Iron Man Hologram GIF" />
 </div>
